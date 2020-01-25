@@ -1,0 +1,23 @@
+h1 {
+  color: black;
+}
+
+h1,
+label,
+input {
+  text-align: center;
+}
+
+label {
+  font-size: 4rem;
+}
+
+div {
+  margin-bottom: 50px;
+}
+
+input {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 3.5rem;
+}
